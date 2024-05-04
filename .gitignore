@@ -1,0 +1,25 @@
+# Dependências do npm
+/node_modules
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração
+.env
+
+# Arquivos de build
+/build
+
+# Arquivos gerados durante o desenvolvimento
+/.pnp
+.pnp.js
+
+# Diretório de cache do npm
+.npm
+
+# Diretório de cache do yarn
+.yarn
+.yarnrc
+.yarn-integrity
